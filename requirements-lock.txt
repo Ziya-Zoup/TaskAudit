@@ -1,0 +1,5 @@
+# Exact environment used for the prepared core release checks.
+# CPython 3.13.3 on Windows; this is not a cross-platform test claim.
+numpy==2.3.5
+scipy==1.15.2
+

@@ -1,0 +1,26 @@
+{
+  "scope": "Original algorithm source only; no research input or result files are included.",
+  "files": [
+    {
+      "path": "src/taskaudit_core/_frozen/research_validation_20261104/class_design/class_design.py",
+      "sha256": "0561248831fc24f67e4647b503a561b0d29cc273fbcf1591123ab42d592cf4cc",
+      "bytes": 17530,
+      "preserved_verbatim": true,
+      "role": "H primary core"
+    },
+    {
+      "path": "src/taskaudit_core/_frozen/research_method_20261104/full_design.py",
+      "sha256": "8d1e6189e27911fc73856c8892a0cdfa079a1b234f12adb8b79ec91d2432678f",
+      "bytes": 16905,
+      "preserved_verbatim": true,
+      "role": "Full pair objective / F separator"
+    },
+    {
+      "path": "src/taskaudit_core/_frozen/research_validation_20261104/class_design/floor_extension.py",
+      "sha256": "c72ef17eed8bfe83344019d737315dc81ffb5d10f44d09ef02ef1c5e585ebc0b",
+      "bytes": 10531,
+      "preserved_verbatim": true,
+      "role": "H selection subject to an independently separated robust F floor"
+    }
+  ]
+}

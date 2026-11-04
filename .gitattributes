@@ -1,0 +1,3 @@
+# Preserve byte hashes of the validated cores on every platform.
+* text=auto eol=lf
+src/taskaudit_core/_frozen/** -text

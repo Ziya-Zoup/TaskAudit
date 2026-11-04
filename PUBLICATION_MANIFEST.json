@@ -1,0 +1,96 @@
+{
+  "release": "taskaudit-core 0.1.0",
+  "scope": "Original core software, packaging, documentation and synthetic fixtures only. No empirical paper reproduction data.",
+  "authors": [
+    "Pengyuan Zou",
+    "Liming Liu"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 120,
+      "sha256": "48a868950e1e92375efa8cfae9d2ec6898fdecc5a73cc87262aeb2d2e719a35f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 89,
+      "sha256": "0d6f3967d707740d4c07be105d332744cd40f7a6122a5bafee1c5435f6cea276"
+    },
+    {
+      "path": "FROZEN_CORE_MANIFEST.json",
+      "bytes": 1052,
+      "sha256": "ced5d29bdc63fd69831b321c9c72b322dcaa06e07f442c42617d82ac42ab2138"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1085,
+      "sha256": "58e2cdb12a600e4685ca4f758d061d0c5ffd582efcafcb9966cd8e8d2d9b4f0d"
+    },
+    {
+      "path": "PUBLISH_ALLOWLIST.txt",
+      "bytes": 596,
+      "sha256": "9476ff69395fc240f67bd0524ec430356c66b04cf8aead30667266bf55e50f03"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6427,
+      "sha256": "5546bbed7680d48b448efb72429966893d48939127b2765db1886c4e20316d86"
+    },
+    {
+      "path": "README_zh.md",
+      "bytes": 1976,
+      "sha256": "b7574322f4477930d35b7050448692187eb6553702b8364658c9f0b5563c6551"
+    },
+    {
+      "path": "examples/synthetic_three_labels.json",
+      "bytes": 250,
+      "sha256": "0b35aa1489871392040a8b909e31fa0a811ea7f423dbedcef13137c8747f4a15"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 701,
+      "sha256": "75ff7119bd43b8bc319adae564c81357de833e6098804460e99153c8f1d22845"
+    },
+    {
+      "path": "requirements-lock.txt",
+      "bytes": 161,
+      "sha256": "95a27662542e928d676a5f27560c6829bc862744ad59e65f98b884f9a79fd0fa"
+    },
+    {
+      "path": "src/taskaudit_core/__init__.py",
+      "bytes": 793,
+      "sha256": "52de6002ab3b777537caf72b0e2e88700d77b38112925e402f7ca124ca53047f"
+    },
+    {
+      "path": "src/taskaudit_core/_frozen/research_method_20261104/full_design.py",
+      "bytes": 16905,
+      "sha256": "8d1e6189e27911fc73856c8892a0cdfa079a1b234f12adb8b79ec91d2432678f"
+    },
+    {
+      "path": "src/taskaudit_core/_frozen/research_validation_20261104/class_design/class_design.py",
+      "bytes": 17530,
+      "sha256": "0561248831fc24f67e4647b503a561b0d29cc273fbcf1591123ab42d592cf4cc"
+    },
+    {
+      "path": "src/taskaudit_core/_frozen/research_validation_20261104/class_design/floor_extension.py",
+      "bytes": 10531,
+      "sha256": "c72ef17eed8bfe83344019d737315dc81ffb5d10f44d09ef02ef1c5e585ebc0b"
+    },
+    {
+      "path": "src/taskaudit_core/demo.py",
+      "bytes": 1737,
+      "sha256": "9be552d8c236226308eb361d430447ced6a0e9f59be8bb5eb6fa72c7920be457"
+    },
+    {
+      "path": "tests/test_synthetic.py",
+      "bytes": 7775,
+      "sha256": "c30f34e90acb75ae288b8c7ba01286a63e6ce247960d75bee82c8c73f0bc59a1"
+    },
+    {
+      "path": "verify_publication.py",
+      "bytes": 1598,
+      "sha256": "e4ecf49118aa9c45bc474340fbec34e34f8c6bdb2ecfe3ac54412d40becb3bd0"
+    }
+  ],
+  "self_hash_rule": "This manifest and its hash sidecar are excluded from payload hashes; allowlist includes both."
+}
