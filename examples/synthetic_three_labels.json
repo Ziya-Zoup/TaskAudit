@@ -1,0 +1,10 @@
+{
+  "instance_id": "synthetic_three_labels",
+  "candidates": [
+    {"id": "synthetic_0", "labels": ["a"]},
+    {"id": "synthetic_1", "labels": ["b"]},
+    {"id": "synthetic_2", "labels": ["c"]}
+  ],
+  "pairs": [["a", "b"], ["a", "c"], ["b", "c"]]
+}
+
